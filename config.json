@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3333
+  },
+  "dbUrl": "mongodb://localhost:27017/digitalAuction",
+  "secretKey": "digitalAuction",
+  "uploadUrl": "public/uploads/",
+  "staticFilesUrl": "http://localhost:3333/"
+}
